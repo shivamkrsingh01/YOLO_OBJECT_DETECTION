@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model & data files
+*.pt
+*.weights
+*.h5
+*.zip
+*.tar
+*.mp4
+*.jpg
+*.png
+data/
+
+# System & IDE files
+.DS_Store
+.vscode/
+.idea/
